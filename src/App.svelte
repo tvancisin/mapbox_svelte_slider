@@ -28,7 +28,7 @@
     const beforeMap = new mapboxgl.Map({
       attributionControl: false,
       container: beforeMapContainer,
-      style: "mapbox://styles/sashagaribaldy/cm0az6qe200pf01phd16v6qm0",
+      style: "mapbox://styles/sashagaribaldy/cm4aigyc400qc01s6bzp76jjf",
       center: [31.307, 6.877],
       zoom: 5,
       maxZoom: 8,
